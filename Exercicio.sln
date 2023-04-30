@@ -21,12 +21,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao5", "Questao5\Questa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resposta", "Resposta", "{A8FA771F-C4A3-4DDD-84D7-A648DD58C69E}"
 	ProjectSection(SolutionItems) = preProject
-		Resposta.sql = Resposta.sql
+		Resposta4.sql = Resposta4.sql
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resposta", "Resposta", "{897F7158-D71F-4EF1-B259-9A1F58515138}"
 	ProjectSection(SolutionItems) = preProject
-		Resposta.txt = Resposta.txt
+		Resposta3.txt = Resposta3.txt
 	EndProjectSection
 EndProject
 Global
