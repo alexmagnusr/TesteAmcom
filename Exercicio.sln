@@ -10,25 +10,23 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questao3", "Questao3", "{2BB7EE80-1BF0-49A3-BDB2-2E9D04439829}"
 	ProjectSection(SolutionItems) = preProject
 		Questao3\Questões 3.docx = Questao3\Questões 3.docx
-		..\..\OneDrive\Área de Trabalho\Resposta.txt = ..\..\OneDrive\Área de Trabalho\Resposta.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Questao4", "Questao4", "{D7C9B50D-678B-438F-8CCF-258F745DB194}"
 	ProjectSection(SolutionItems) = preProject
 		Questao4\Questão 4.docx = Questao4\Questão 4.docx
-		..\..\OneDrive\Área de Trabalho\Resposta.sql = ..\..\OneDrive\Área de Trabalho\Resposta.sql
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao5", "Questao5\Questao5.csproj", "{7B665AB7-6063-4EA5-A851-E41DBBE01242}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resposta", "Resposta", "{A8FA771F-C4A3-4DDD-84D7-A648DD58C69E}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\OneDrive\Área de Trabalho\Resposta.sql = ..\..\OneDrive\Área de Trabalho\Resposta.sql
+		Resposta.sql = Resposta.sql
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resposta", "Resposta", "{897F7158-D71F-4EF1-B259-9A1F58515138}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\OneDrive\Área de Trabalho\Resposta.txt = ..\..\OneDrive\Área de Trabalho\Resposta.txt
+		Resposta.txt = Resposta.txt
 	EndProjectSection
 EndProject
 Global
